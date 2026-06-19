@@ -247,17 +247,17 @@ E atualizar o valor total da compra corretamente
 
 ## Diferenciais do Projeto
 
-✔ Estrutura semelhante à utilizada em ambientes corporativos
+* Estrutura semelhante à utilizada em ambientes corporativos
 
-✔ Casos de teste documentados profissionalmente
+* Casos de teste documentados profissionalmente
 
-✔ Relatórios de bugs reproduzíveis
+* Relatórios de bugs reproduzíveis
 
-✔ Rastreabilidade completa entre artefatos
+* Rastreabilidade completa entre artefatos
 
-✔ Aplicação de BDD/Gherkin
+* Aplicação de BDD/Gherkin
 
-✔ Demonstração prática das atividades de um QA Analyst
+* Demonstração prática das atividades de um QA Analyst
 
 ---
 
@@ -268,7 +268,10 @@ E atualizar o valor total da compra corretamente
 Analista de QA | Testes de Software | Garantia da Qualidade de Software
 
 💼 LinkedIn: https://linkedin.com/in/caioalvz
+📄Planilha completa: [Visualizar](https://docs.google.com/spreadsheets/d/11wIZYFAS1ygHVBTpNuSH46vi6ACpn0CVqMD4ctbh_44/edit?usp=sharing)
 
 ---
 
 *"Qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." - John Ruskin*
+
+
