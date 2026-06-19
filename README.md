@@ -1,4 +1,4 @@
-# # JPetStore — Projeto de QA Manual e Documentação de Testes
+# JPetStore — Projeto de QA Manual e Documentação de Testes
 
 **Caio C. S. Alves · Analista de QA**
 
